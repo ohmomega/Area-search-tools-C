@@ -2,7 +2,7 @@
 
 void menu(){
 	
-		printf("**** Main Menu Program to calculate geometric area **** \n");
+	printf("**** Main Menu Program to calculate geometric area **** \n");
         printf("1. Triangle\n");
         printf("2. Rectangle\n");
         printf("3. Circle\n");
